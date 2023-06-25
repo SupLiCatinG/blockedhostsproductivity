@@ -490,3 +490,6 @@
 127.0.0.1 watson.ppe.telemetry.microsoft.com
 127.0.0.1 watson.telemetry.microsoft.com
 127.0.0.1 watson.telemetry.microsoft.com.nsatc.net
+0.0.0.0 discord.com
+0.0.0.0 cdn.discord.com
+
